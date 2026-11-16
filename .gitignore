@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Xcode: ajustes personales y archivos generados al compilar
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
